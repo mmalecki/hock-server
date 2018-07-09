@@ -1,0 +1,8 @@
+{
+  "name": "hock-server",
+  "version": "0.0.0",
+  "peerDependencies": {
+    "hock": "*"
+  },
+  "main": "server.js"
+}
